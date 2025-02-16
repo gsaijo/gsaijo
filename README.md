@@ -5,11 +5,5 @@
   <a href="https://www.linkedin.com/in/gsaijo/" target="_blank">LinkedIn</a> 
 </p>
 
-I'm a software quality enthusiast. Currently, I'm working on improving my skills with **Cypress** to create test automation.
+Currently, I'm working on improving my skills with **Java** and **Spring Boot**.
 
-## 🛠️ Technologies & Tools
-
-- **Testing Tools:** Cypress, Postman, Jmeter
-- **Project Management:** Jira, Trello
-- **Version Control:** Git, GitHub
-- **Languages:** Java, JavaScript
