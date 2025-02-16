@@ -6,4 +6,5 @@
 </p>
 
 Currently, I'm working on improving my skills with **Java** and **Spring Boot**.
+I am a Software Tester transitioning to Full Stack Developer.
 
